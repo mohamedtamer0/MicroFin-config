@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MicroFin-Suite accounts related Production APIs "
+  message: "Welcome to MicroFin-Suite accounts related prod APIs "
   contactDetails:
     name: "Mohamed Tamer"
     email: "{cipher}3172c2549eb14396348c1e40306d4414a4209c40fc87ec34aa98e8f87077010156574d8b95a6a16beef5faea11fdb16e"
